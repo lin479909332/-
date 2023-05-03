@@ -1,0 +1,1 @@
+.detail{padding:30rpx}.detail .title{font-size:46rpx;color:#333}.detail .info{background-color:#f6f6f6;padding:20rpx;font-size:22rpx;color:#666;display:flex;justify-content:space-between;margin:30rpx 0}.detail .content{padding-bottom:50rpx}.detail .description{background-color:#efe0f0;font-size:26rpx;padding:20rpx;color:#f89898;line-height:1.8em}
